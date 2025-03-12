@@ -1,0 +1,39 @@
+{
+    "Gems": 0,
+    "Gold": 0,
+    "Tickets": 0,
+    "Starpoints": 0,
+    "BrawlBoxTokens": 0,
+    "BigBoxTokens": 0,
+    "ExperiencePoints": 0,
+    "Trophies": 0,
+    "ShowPacketsInLog": false,
+    "ThemeID": 0,
+    "SupportedContentCreator": "<cff3200>R<cff6500>i<cff9800>s<cffcb00>e<cffff00>B<cffff00>r<cccff00>a<c99ff00>w<c66ff00>l</c>",
+    "Maintenance": false,
+    "maintenance": false,
+    "Patch": false,
+    "buybp": [
+        2,
+        3,
+        5
+    ],
+    "vips": [5],
+    "banID": [],
+    "CCC": [
+        "RiseBrawl"
+    ],
+    "ClubBlock": [],
+    "DelName": [
+        "@Brawl_DDoS",
+        "nocrypto..?",
+        "VBC26",
+        "t.me/Brawl_DDoS",
+        "t.me/"
+    ],
+    "PatchUrl": "",
+    "UpdateUrl": "https://risebunny.github.io/brawl",
+    "block": [],
+    "Skins": [],
+    "Skinse": []
+}
